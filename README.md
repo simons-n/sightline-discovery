@@ -8,6 +8,13 @@ _The MQB Team_
 
 Zhengri Fan,  Jiayu Huang, Henry Kwan, Xiaoying Pu
 
+---
+Bucknell University Summer 2017 Research Project with Prof. Evan Peck
+
+Nick Simons, Adon Shapiro
+
+
+***NOTE: *** **This extension is deprecated.  For any questions, please contact one of the contributors.**
 
 Table of Contents
 ---
